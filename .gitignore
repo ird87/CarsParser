@@ -1,0 +1,9 @@
+cars.csv
+cars.json
+*.spec
+settings.INI
+.idea/
+__pycache__/
+build/
+dist/
+venv/
